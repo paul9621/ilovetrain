@@ -1,0 +1,8 @@
+{
+    "destinations": [
+      { "nom": "lyon", "cdg": "lyongare1", "category": "RER" }
+    ],
+    "trains": [
+      { "id": "1", "destination":"lyongare1" ,"heuredep":"1189990", "heurearr": "18929992", "quai": "A" }
+    ]
+  }
